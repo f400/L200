@@ -1,0 +1,6 @@
+framework module Pods_EnhanceQuizStarter {
+  umbrella header "Pods-EnhanceQuizStarter-umbrella.h"
+
+  export *
+  module * { export * }
+}
